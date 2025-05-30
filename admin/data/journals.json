@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Demo Student",
+        "image": "https:\/\/i.ibb.co\/kVYx5SMY\/x.jpg",
+        "journal": "Lorem Ipsum",
+        "status": "Sent"
+    },
+    {
+        "name": "Aflah",
+        "image": "https:\/\/i.ibb.co\/kVYx5SMY\/x.jpg",
+        "journal": "home",
+        "status": "Submitted"
+    }
+]
